@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#header {
+    overflow: hidden;
+    background-color: black;
+    margin-top: 50px;
+    height: 70px;
+    /* float: left; */
+    margin-left: 50px;
+
+}
+#name {
+    color: aquamarine;
+    float: left;
+    /* font-size: larger; */
+    font-size: 60px;
+    height: auto;
+    width: 50%;
+    background-color: orange;
+    
+}
+
+
+/* 
+header  {
+    height: 60px;
+    width: 1200px;
+    border: 0px 5px 5px 5px solid black;
+}  */
+/* #header {
+    border: 0px 5px 5px 5px solid black;
+    height: 60px;
+    width: 1000px;
+    overflow: none;
+    display: inline;
+
+} */
